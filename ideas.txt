@@ -1,0 +1,1 @@
+- algorithmically generate properties of binary/trinary numbers and see if any such property strictly decrease in a collatz sequence
