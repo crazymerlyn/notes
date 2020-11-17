@@ -1,1 +1,3 @@
 - algorithmically generate properties of binary/trinary numbers and see if any such property strictly decrease in a collatz sequence
+- model algorithmic operations as a theoretical mapping of information in some space where algorithmic complexity is is the distance b/w two information points
+- Does the godel contradiction require large numbers? Is it possible to have a consistent* and complete* mathematical system as long as the size is bounded??
